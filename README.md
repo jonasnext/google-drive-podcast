@@ -23,7 +23,7 @@ directory = "podcast"
 
 By default, the notebook makes one directory in `Google Drive`–`My Drive`/`${directory}`, where you can upload the audio files using the notebook, or using the web browser UI in [Google Drive](https://drive.google.com) in the directory that's defined in the notebook.
 
-The podcast will include all audio files in the `My Drive`/`${directory}` folder and save the podcast file in the same directory, named as `podcast.rss`.
+The podcast will include all audio files in the `My Drive`/`${directory}` folder, and save the podcast file in the same directory, named as `podcast.rss`.
 
 At the top of the notebook, [`Google Colab`](https://colab.research.google.com) requests access to your [Google Drive](https://drive.google.com) to copy the audio files, and the podcast file to `My Drive`/`${directory}`. The notebook also needs to read the audio files in the `My Drive`/`${directory}` folder to make the podcast file.
 

@@ -1,10 +1,10 @@
 ![img](img/logo.svg)
 
-# google-drive-podcast
-
 [![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jonasnext/google-drive-podcast/blob/main/untitled.ipynb) [![code style—black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-### Requirements: Google Account
+# google-drive-podcast
+
+## Requirements: Google Account
 
 This [`Google Colab`](https://colab.research.google.com) notebook makes a **simple & minimal** podcast in [Google Drive](https://drive.google.com). Run the notebook from top to bottom to make the `podcast.rss` file, and get the url at the end of the notebook, to enter in your podcast app.
 
